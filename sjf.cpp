@@ -1,3 +1,4 @@
+//shortest job first program and gant chart display//
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
